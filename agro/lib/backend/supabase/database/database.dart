@@ -1,0 +1,31 @@
+export '../../../flutter_flow/lat_lng.dart';
+export 'package:supabase_flutter/supabase_flutter.dart' hide Provider;
+
+export '../supabase.dart';
+export 'row.dart';
+export 'table.dart';
+
+export 'tables/formato.dart';
+export 'tables/cantidadparcelasselecionadas.dart';
+export 'tables/huertos_cuadriculas.dart';
+export 'tables/cultivo.dart';
+export 'tables/riego.dart';
+export 'tables/diario.dart';
+export 'tables/meses.dart';
+export 'tables/vista_huertototal_grafica.dart';
+export 'tables/fertilizantes.dart';
+export 'tables/vista_celdashuerto_con_imagen.dart';
+export 'tables/vista_grids_grafica.dart';
+export 'tables/pesticida.dart';
+export 'tables/cultivo_tipo.dart';
+export 'tables/celdas_huerto.dart';
+export 'tables/pesticida_efecto.dart';
+export 'tables/fase_luna.dart';
+export 'tables/aplicacion.dart';
+export 'tables/plaga_tipo.dart';
+export 'tables/siembra_tipo.dart';
+export 'tables/estacin.dart';
+export 'tables/pesticida_tipo.dart';
+export 'tables/operaciones.dart';
+export 'tables/diarioview.dart';
+export 'tables/plaga.dart';
